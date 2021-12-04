@@ -1,4 +1,4 @@
-# NOTICE] This is a repo forked from @skyline-emu. 
+# [NOTICE] This is a repo forked from @skyline-emu. 
 
 To get involved with the open-source project, visit <a href="https://github.com/skyline-emu/skyline" target="_blank">skyline-emu/skyline</a>
 
