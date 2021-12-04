@@ -1,3 +1,10 @@
+# NOTICE] This is a repo forked from @skyline-emu. 
+
+To get involved with the open-source project, visit <a href="https://github.com/skyline-emu/skyline" target="_blank">skyline-emu/skyline</a>
+
+
+---
+
 <h1 align="center">
     <a href="https://github.com/skyline-emu/skyline" target="_blank">
         <img height="60%" width="60%" src="https://raw.github.com/skyline-emu/branding/master/banner/skyline-banner-rounded.png"><br>
